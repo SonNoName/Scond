@@ -1,0 +1,29 @@
+a{
+    color:green;
+    font-size:14px;
+    font:italic;
+    
+}
+body{
+    background-image:url(/img/received_465863685588586.jpeg)
+}
+a.Linhprofile{
+    color:red;
+    font-size:25px;
+}
+span.date{
+    color:dodgerblue;
+    font-size:19px;
+    font:italic;
+    opacity:95%;
+}
+h1{
+    color:blue;
+    font-size:25px;
+}
+input:checked ~ *{
+    background-color: black;
+    font-size:0px;
+    opacity:0%;
+    transition: 5s;
+}

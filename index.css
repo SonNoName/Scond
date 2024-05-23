@@ -1,0 +1,45 @@
+body{
+    background-image:url(/img/received_465863685588586.jpeg)
+}
+h1{
+    color:blue;
+    font-size:25px;
+}
+h2{
+    color:red;
+    font-size:20px;
+
+}
+.h22{
+    color:red;
+    font-size:20px;
+    right:auto;
+    display:contents;
+
+}
+input:checked ~ *{
+    background-color: black;
+    font-size:0px;
+    opacity:0%;
+    transition: 5s;
+
+}
+span{
+    color:aqua;
+}
+span.date{
+    color:dodgerblue;
+    font-size:19px;
+    font:italic;
+    opacity:95%;
+
+}
+div>p{
+    color:beige;
+}
+a{
+    color:green;
+    font-size:14px;
+    font:italic;
+    
+}
