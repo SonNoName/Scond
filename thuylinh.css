@@ -11,6 +11,11 @@ a.Linhprofile{
     color:red;
     font-size:25px;
 }
+a.menu:hover{
+    color:pink;
+    font-size:22px;
+    
+}
 span.date{
     color:dodgerblue;
     font-size:19px;

@@ -45,3 +45,9 @@ a{
     font:italic;
     
 }
+a.menu:hover{
+    color:pink;
+    font-size:22px;
+    
+}
+

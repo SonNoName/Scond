@@ -16,3 +16,8 @@ span.date{
 span.days{
     color:cyan;
 }
+a.menu:hover{
+    color:pink;
+    font-size:22px;
+    
+}

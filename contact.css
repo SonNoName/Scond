@@ -11,3 +11,8 @@ h1{
     color:blue;
     font-size:25px;
 }
+a.menu:hover{
+    color:pink;
+    font-size:22px;
+    
+}
