@@ -26,6 +26,8 @@ input:checked ~ *{
 }
 span{
     color:aqua;
+    font-size:18px;
+    font:bold;
 }
 span.date{
     color:dodgerblue;
@@ -39,7 +41,7 @@ div>p{
 }
 a{
     color:green;
-    font-size:14px;
+   
     font:italic;
     
 }
